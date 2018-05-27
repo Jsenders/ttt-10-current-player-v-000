@@ -26,8 +26,4 @@ def current_player(board)
 end
 
 board = ["X","X"," "," ",""," "," "," "," "]
-#puts "Welcome to Tic Tac Toe!"
-#puts display_board(board)
-#play(board)
-#turn_count(board)
 current_player(board)
